@@ -346,7 +346,7 @@ elif st.session_state.view == "details":
         )
 
         if not err2 and bundle:
-            st.markdown("#### 🔎 Similar Movies (TF-IDF)")
+            st.markdown("#### 🔎 Similar Movies ")
             poster_grid(
                 to_cards_from_tfidf_items(bundle.get("tfidf_recommendations")),
                 cols=grid_cols,
