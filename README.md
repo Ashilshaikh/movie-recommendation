@@ -57,5 +57,4 @@ streamlit run app.py
 
 
 ## 📸 App Preview
-
-Screenshot 2026-06-10 194517.png
+app_screenshot.png
