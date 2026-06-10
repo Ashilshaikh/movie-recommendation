@@ -57,5 +57,6 @@ streamlit run app.py
 
 
 ## 📸 App Preview
-[app_screenshot.png
-](https://github.com/Ashilshaikh/movie-recommendation/blob/main/app_screenshot.png?raw=true)
+## 📸 App Preview
+
+![Movie Recommender App](https://raw.githubusercontent.com/Ashilshaikh/movie-recommendation/main/app_screenshot.png)
