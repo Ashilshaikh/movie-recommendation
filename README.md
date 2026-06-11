@@ -53,3 +53,6 @@ Movies are processed using:
 pip install -r requirements.txt
 uvicorn main:app --reload
 streamlit run app.py
+
+## WEBSITE LINK
+https://movie-recommendation-vdueb99nnwagbs8he93qww.streamlit.app/
